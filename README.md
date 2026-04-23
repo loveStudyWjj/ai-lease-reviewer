@@ -24,14 +24,6 @@
 
 本项目采用 MIT 许可证 - 详见 [LICENSE](LICENSE) 文件
 
-## 贡献
-
-欢迎贡献！请查看 [CONTRIBUTING.md](CONTRIBUTING.md) 了解如何参与项目开发。
-
-## 安全
-
-如发现安全漏洞，请查看 [SECURITY.md](SECURITY.md) 了解如何报告。
-
 ## 项目结构
 
 ```
