@@ -1,4 +1,4 @@
-# 租赁租房合同审核 Agent
+# 租赁租房合同AI审核
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
